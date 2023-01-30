@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    padding: 80px;
+    background: #f8f1;
+}
+
+.blockCommentar{
+    text-align: left;
+}
+
+li{
+    margin-top: 10px;
+    display: block;
+}
+
+.error{
+    display: none;
+    margin-top: 20px;
+    color: red;
+}
+
+#subBut{
+    margin-top: 15px;
+}
+
+.dataPost{
+    display: none;
+}
+
+.buttonComments{
+    margin:0 auto;
+    display: none;
+}
+
+li:last-child{
+    margin-bottom: 20px;
+}
